@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    gap:30px;
+}
+button{
+    font-size:30px;
+    padding:5px;
+}
+
+#button{
+    display:flex;
+    flex-direction:row;
+    gap:40px;
+    margin-bottom:40px;
+}
+
+#a{
+    font-size:40px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+#c{
+    text-align:center;
+}
+
+#score{
+    margin-top:20px;
+    text-align:center;
+    font-size:40px;
+}
+
