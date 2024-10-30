@@ -9,6 +9,7 @@ body{
     align-items:center;
     /* height: 100vh; */
     gap:30px;
+    background-color:rgb(255, 245, 233)
 }
 button{
     font-size:30px;
@@ -23,6 +24,7 @@ button{
 }
 
 #a{
+    margin-top:20px;
     font-size:40px;
     margin-bottom:20px;
     text-align:center;
